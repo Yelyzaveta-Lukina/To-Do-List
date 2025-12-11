@@ -16,14 +16,14 @@ A simple Android application that allows users to add tasks to a to-do list, vie
 
 ## 🖼️ Screenshots
 
-### 1️⃣ App when first loaded
-![Screenshot 1](1.png)
+### **1. App on first load**
+<img src="./screenshots/1.png" width="300"/>
 
-### 2️⃣ List after adding several items
-![Screenshot 2](2.png)
+### **2. After adding several to-do items**
+<img src="./screenshots/2.png" width="300"/>
 
-### 3️⃣ Screen after pressing the CLEAR button
-![Screenshot 3](3.png)
+### **3. After pressing CLEAR (list emptied)**
+<img src="./screenshots/3.png" width="300"/>
 
 ---
 
